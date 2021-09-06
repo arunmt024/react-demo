@@ -1,0 +1,3 @@
+export const INIT_REQUEST = 'INIT_REQUEST';
+export const END_REQUEST= 'END_REQUEST'
+export const GET_EMPLOYEES= 'GET_EMPLOYEES'
